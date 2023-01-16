@@ -8,3 +8,4 @@ Following https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-tabs-m
 ## Permissions
 - `host_permissions`: Grant elevated permissions (tab title, URL, and other capabilities) only to certain sites.
 	- Alternative would be `tabs` permission, but that would grant access to all tabs.
+- `tab_groups`: Name tab groups and choose a background color.
